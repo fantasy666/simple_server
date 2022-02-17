@@ -1,0 +1,8 @@
+add_executable(Logging_Test Logging_test.cpp)
+target_link_libraries(Logging_Test zbase_shared)
+
+add_executable(LogFile_Test LogFile_test.cpp)
+target_link_libraries(LogFile_Test zbase_shared)
+
+add_executable(AsyncLogging_Test AsyncLogging_test.cpp)
+target_link_libraries(AsyncLogging_Test zbase_shared)

@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/AsyncLogging.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/AsyncLogging.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/AsyncLogging.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/Exception.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/Exception.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/Exception.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/FileUtil.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/FileUtil.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/FileUtil.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/LogFile.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/LogFile.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/LogFile.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/LogStream.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/LogStream.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/LogStream.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/Logging.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/Logging.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/Logging.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/ProcessInfo.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/ProcessInfo.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/ProcessInfo.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/ThreadPool.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/ThreadPool.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/ThreadPool.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/Timestamp.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/Timestamp.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/Timestamp.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/base",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dzbase_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/zbase_shared.dir/util.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/base/util.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/base/util.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Acceptor.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Acceptor.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Acceptor.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Buffer.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Buffer.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Buffer.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Channel.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Channel.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Channel.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Connection.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Connection.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Connection.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Epoll.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Epoll.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Epoll.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/EventLoop.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/EventLoop.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/EventLoop.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Server.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Server.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Server.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/src/net",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -Dznet_shared_EXPORTS -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC   -std=gnu++17 -o CMakeFiles/znet_shared.dir/Socket.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/src/net/Socket.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/src/net/Socket.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/test",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls   -std=gnu++17 -o CMakeFiles/AsyncLogging_Test.dir/AsyncLogging_test.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/test/AsyncLogging_test.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/test/AsyncLogging_test.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/test",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls   -std=gnu++17 -o CMakeFiles/LogFile_Test.dir/LogFile_test.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/test/LogFile_test.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/test/LogFile_test.cpp"
+},
+{
+  "directory": "/home/dell/ZhY/liaotianshi/simple_server/build/test",
+  "command": "/bin/clang++-10  -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dell/ZhY/liaotianshi/simple_server/src/base/include -I/home/dell/ZhY/liaotianshi/simple_server/src/net/include -I/home/dell/ZhY/liaotianshi/simple_server/test/include   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls   -std=gnu++17 -o CMakeFiles/Logging_Test.dir/Logging_test.cpp.o -c /home/dell/ZhY/liaotianshi/simple_server/test/Logging_test.cpp",
+  "file": "/home/dell/ZhY/liaotianshi/simple_server/test/Logging_test.cpp"
+}
+]

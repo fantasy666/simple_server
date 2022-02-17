@@ -1,0 +1,1 @@
+/bin/clang++-10   -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls   -fPIC -rdynamic CMakeFiles/LogFile_Test.dir/LogFile_test.cpp.o  -o ../bin/LogFile_Test  -Wl,-rpath,/home/dell/ZhY/liaotianshi/simple_server/build/lib ../lib/libzbase_shared.so 

@@ -1,0 +1,1 @@
+/bin/clang++-10 -fPIC  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls  -fPIC -shared -Wl,-soname,libzbase_shared.so -o ../lib/libzbase_shared.so CMakeFiles/zbase_shared.dir/base/ThreadPool.cpp.o CMakeFiles/zbase_shared.dir/base/util.cpp.o 
